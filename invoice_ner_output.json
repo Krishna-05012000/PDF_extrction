@@ -1,0 +1,55 @@
+{
+    "Reference Number": "53799939",
+    "Invoice Number": "96821574",
+    "Invoice Date": "06/28/2024",
+    "Order Number": "EQ24050800087",
+    "Customer PO": "3090718",
+    "Ship To": "",
+    "Bill To": "EQUIPMENT INVOICE",
+    "Labor": ".00",
+    "Equipment & Parts": "62608.01",
+    "Subtotal": null,
+    "Shipping & Handling": "939.12",
+    "Tax": "4448.30",
+    "Order Total": "67995.43",
+    "Less Deposit": "62634.72",
+    "Balance Due": "5360.71",
+    "Customer Service Contact": null,
+    "Email Contact": null,
+    "Items": [
+        {
+            "Item Number": "5",
+            "Description": "Y",
+            "Quantity": "1",
+            "Unit Price": "62128.00",
+            "Total Price": "62128.00",
+            "Serial Number": "S/N:"
+        },
+        {
+            "Item Number": "003220",
+            "Description": "2 8500078 VATECH AMERI XR,EzRay Air P,HH IO",
+            "Quantity": "1",
+            "Unit Price": ".00",
+            "Total Price": ".00",
+            "Serial Number": "S/N:"
+        },
+        {
+            "Item Number": "092007",
+            "Description": "515\n3 8500296 HS EQUIPMENT 3D Shielding Plan Review Y",
+            "Quantity": "1",
+            "Unit Price": "480.00",
+            "Total Price": "480.00",
+            "Serial Number": "4"
+        },
+        {
+            "Item Number": "1461652",
+            "Description": "HENRY SCHEIN Q2 Thrive Rewards Equip Promo T",
+            "Quantity": "1",
+            "Unit Price": ".01",
+            "Total Price": ".01",
+            "Serial Number": "S/N:"
+        }
+    ],
+    "Payment Terms": null,
+    "Remit To": "Henry Schein, Inc. Box 371952 Pittsburgh, PA 15250-7952"
+}
